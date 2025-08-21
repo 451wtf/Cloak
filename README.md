@@ -10,7 +10,7 @@ The OS and our Kernel are both written in Zig, for learning purposes and to make
 
 > [!CAUTION]
 > Nothing here mentioned is applicable to the OS as of August 21st 2025.
-> This OS is NOT functional. Our main focus is the [Kernel](https://codeberg.org/451/Silhouette)
+> This OS is NOT functional. Our main focus is the [Silhouette Kernel](https://codeberg.org/451/Silhouette)
 
 ## Focus
 **→** Privacy » No tracking, no telemetry. Block domains, IPs or Ports for Apps or the complete OS and easily configure the Firewall. Sandbox apps natively with one click. <br/>
@@ -36,8 +36,8 @@ Note: None of the above mentioned software exists yet. Usage examples will be pr
 ## Install
 1. Download the ISO from our Release
 2.
-    1. Move it to an [Ventoy](https://ventory.net/) USB Drive (Recommended)
-    2. Flash it to an USB Drive
+    - Move it to an [Ventoy](https://ventory.net/) USB Drive (Recommended)
+    - Flash it to an USB Drive
 3. Boot to the USB Drive
 
 ## Developer API
@@ -45,7 +45,7 @@ We want that Developers have an easy way to create applications for Cloak OS.
 From TUIs (Terminal/Text User Interfaces) to GUIs (Graphical User Interfaces), the API will allow easy creation of Software with a nice IO API.
 
 ## Contribute
-Requirements:
+Requirements: <br/>
 **→** Zig 0.14.1 <br/>
 **→** x86_64 (64 Bit) AMD/Intel CPU. <br/>
 **→** Qemu, CMake, Git <br/>
