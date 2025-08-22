@@ -1,5 +1,5 @@
-//    CloakOS - 451.wtf's OS based on the Silhoutte Kernel
-//    Copyright (C) 2025  mtctx
+//    CloakOS - 451.wtf's OS based on the Silhouette Kernel
+//    Copyright (C) 2025  Empty Context (mtctx)
 //
 //    This program is free software: you can redistribute it and/or modify
 //    it under the terms of the GNU General Public License as published by
